@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "E-Commerce Platform",
+      "slug": "ecommerce-platform",
+      "description": "A full-stack e-commerce platform with real-time inventory management, payment processing, and AI-powered product recommendations.",
+      "longDescription": "Built a comprehensive e-commerce solution handling 10K+ daily transactions. Implemented microservices architecture for scalability, real-time inventory sync across multiple warehouses, and ML-based recommendation engine that increased conversion by 35%.",
+      "category": "web",
+      "techStack": ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Redis", "Stripe", "AWS"],
+      "image": "/images/projects/ecommerce.png",
+      "images": ["/images/projects/ecommerce-1.png", "/images/projects/ecommerce-2.png"],
+      "githubUrl": "https://github.com/johndoe/ecommerce-platform",
+      "liveUrl": "https://demo-ecommerce.johndoe.dev",
+      "featured": true,
+      "status": "completed",
+      "role": "Lead Full-Stack Developer",
+      "challenges": [
+        "Handling high-concurrency during flash sales",
+        "Real-time inventory synchronization",
+        "Payment gateway integration across multiple regions"
+      ],
+      "outcomes": [
+        "35% increase in conversion rate",
+        "99.9% uptime achieved",
+        "50% reduction in page load time"
+      ],
+      "startDate": "2023-01",
+      "endDate": "2023-08",
+      "metrics": [
+        { "label": "Daily Transactions", "value": "10K+" },
+        { "label": "Conversion Increase", "value": "35%" },
+        { "label": "Load Time", "value": "<1.5s" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "AI Content Generator",
+      "slug": "ai-content-generator",
+      "description": "An AI-powered content generation platform using GPT-4 and custom fine-tuned models for marketing copy, blog posts, and social media content.",
+      "longDescription": "Developed an AI content platform that generates marketing copy, blog articles, and social media posts. Integrated multiple LLM providers with fallback mechanisms, implemented custom prompt engineering techniques, and built a user-friendly editor with real-time collaboration.",
+      "category": "ai",
+      "techStack": ["React", "Python", "FastAPI", "OpenAI", "LangChain", "PostgreSQL", "Docker"],
+      "image": "/images/projects/ai-content.png",
+      "githubUrl": "https://github.com/johndoe/ai-content-generator",
+      "liveUrl": "https://ai-content.johndoe.dev",
+      "featured": true,
+      "status": "completed",
+      "role": "Technical Lead",
+      "challenges": [
+        "Optimizing API costs while maintaining quality",
+        "Implementing rate limiting and queue management",
+        "Ensuring content originality and plagiarism detection"
+      ],
+      "outcomes": [
+        "Reduced content creation time by 80%",
+        "Processed 1M+ tokens monthly",
+        "Achieved 95% user satisfaction rate"
+      ],
+      "startDate": "2023-06",
+      "endDate": "2023-12",
+      "metrics": [
+        { "label": "Time Saved", "value": "80%" },
+        { "label": "Monthly Tokens", "value": "1M+" },
+        { "label": "User Satisfaction", "value": "95%" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Real-Time Collaboration Tool",
+      "slug": "collaboration-tool",
+      "description": "A Notion-like collaborative workspace with real-time editing, document management, and team communication features.",
+      "category": "web",
+      "techStack": ["Next.js", "TypeScript", "Socket.io", "MongoDB", "Redis", "AWS S3"],
+      "image": "/images/projects/collab-tool.png",
+      "githubUrl": "https://github.com/johndoe/collaboration-tool",
+      "liveUrl": "https://collab.johndoe.dev",
+      "featured": true,
+      "status": "completed",
+      "role": "Full-Stack Developer",
+      "startDate": "2022-08",
+      "endDate": "2023-02",
+      "metrics": [
+        { "label": "Concurrent Users", "value": "500+" },
+        { "label": "Documents", "value": "50K+" },
+        { "label": "Latency", "value": "<50ms" }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Mobile Fitness App",
+      "slug": "fitness-app",
+      "description": "Cross-platform fitness application with workout tracking, meal planning, and social features built with React Native.",
+      "category": "mobile",
+      "techStack": ["React Native", "TypeScript", "Node.js", "MongoDB", "Firebase"],
+      "image": "/images/projects/fitness-app.png",
+      "githubUrl": "https://github.com/johndoe/fitness-app",
+      "featured": false,
+      "status": "completed",
+      "role": "Mobile Developer",
+      "startDate": "2022-03",
+      "endDate": "2022-09",
+      "metrics": [
+        { "label": "Downloads", "value": "10K+" },
+        { "label": "Rating", "value": "4.8★" },
+        { "label": "Active Users", "value": "3K+" }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "DevOps Dashboard",
+      "slug": "devops-dashboard",
+      "description": "Comprehensive monitoring and deployment dashboard for managing cloud infrastructure and CI/CD pipelines.",
+      "category": "devops",
+      "techStack": ["React", "Go", "Kubernetes", "Prometheus", "Grafana", "AWS"],
+      "image": "/images/projects/devops-dashboard.png",
+      "githubUrl": "https://github.com/johndoe/devops-dashboard",
+      "featured": false,
+      "status": "completed",
+      "role": "DevOps Engineer",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "metrics": [
+        { "label": "Deployments", "value": "500+/month" },
+        { "label": "Uptime", "value": "99.99%" },
+        { "label": "MTTR", "value": "<5min" }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Distributed Cache System",
+      "slug": "distributed-cache",
+      "description": "High-performance distributed caching system with automatic failover and horizontal scaling capabilities.",
+      "category": "system",
+      "techStack": ["Rust", "Redis", "gRPC", "Docker", "Kubernetes"],
+      "image": "/images/projects/cache-system.png",
+      "githubUrl": "https://github.com/johndoe/distributed-cache",
+      "featured": false,
+      "status": "completed",
+      "role": "Systems Engineer",
+      "startDate": "2021-08",
+      "endDate": "2022-01",
+      "metrics": [
+        { "label": "Throughput", "value": "1M ops/s" },
+        { "label": "Latency P99", "value": "<1ms" },
+        { "label": "Availability", "value": "99.999%" }
+      ]
+    }
+  ]
+}

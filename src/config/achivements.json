@@ -1,0 +1,72 @@
+{
+  "achievements": [
+    {
+      "id": "1",
+      "title": "Top 1% on LeetCode",
+      "description": "Ranked in the top 1% globally with 1500+ problems solved and contest rating of 2200+",
+      "date": "2024-01",
+      "icon": "Trophy",
+      "category": "award",
+      "url": "https://leetcode.com/johndoe",
+      "metrics": [
+        { "label": "Problems Solved", "value": "1500+" },
+        { "label": "Contest Rating", "value": "2200+" },
+        { "label": "Global Rank", "value": "Top 1%" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Open Source Contributor",
+      "description": "Major contributor to popular open-source projects including React, Next.js, and various developer tools",
+      "date": "2023-12",
+      "icon": "GitPullRequest",
+      "category": "opensource",
+      "url": "https://github.com/johndoe",
+      "metrics": [
+        { "label": "Pull Requests", "value": "200+" },
+        { "label": "GitHub Stars", "value": "5K+" },
+        { "label": "Projects", "value": "50+" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Speaker at ReactConf 2023",
+      "description": "Delivered a talk on 'Building Scalable React Applications' to an audience of 2000+ developers",
+      "date": "2023-10",
+      "icon": "Presentation",
+      "category": "speaking",
+      "url": "https://reactconf.com/speakers/johndoe"
+    },
+    {
+      "id": "4",
+      "title": "Published in IEEE",
+      "description": "Research paper on 'Optimizing Distributed Systems for Real-Time Applications' published in IEEE Transactions",
+      "date": "2023-06",
+      "icon": "FileText",
+      "category": "publication",
+      "url": "https://ieeexplore.ieee.org/document/123456"
+    },
+    {
+      "id": "5",
+      "title": "Google Developer Expert",
+      "description": "Recognized as a Google Developer Expert for Web Technologies",
+      "date": "2023-03",
+      "icon": "Award",
+      "category": "certification",
+      "url": "https://developers.google.com/experts/johndoe"
+    },
+    {
+      "id": "6",
+      "title": "Hackathon Winner",
+      "description": "First place at TechCrunch Disrupt Hackathon 2022 with an AI-powered accessibility tool",
+      "date": "2022-09",
+      "icon": "Zap",
+      "category": "award",
+      "metrics": [
+        { "label": "Prize", "value": "$50K" },
+        { "label": "Teams", "value": "500+" },
+        { "label": "Participants", "value": "2000+" }
+      ]
+    }
+  ]
+}

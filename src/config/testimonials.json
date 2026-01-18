@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sarah Johnson",
+      "position": "VP of Engineering",
+      "company": "TechCorp Inc.",
+      "avatar": "/images/testimonials/sarah.jpg",
+      "content": "John is one of the most talented engineers I've worked with. His ability to architect complex systems while maintaining code quality is exceptional. He's a natural leader who elevates everyone around him.",
+      "rating": 5,
+      "linkedinUrl": "https://linkedin.com/in/sarahjohnson"
+    },
+    {
+      "id": "2",
+      "name": "Michael Chen",
+      "position": "CTO",
+      "company": "StartupXYZ",
+      "avatar": "/images/testimonials/michael.jpg",
+      "content": "Working with John was a game-changer for our startup. He single-handedly built our MVP and set up the architecture that scaled to 100K users. Highly recommended for any challenging project.",
+      "rating": 5,
+      "linkedinUrl": "https://linkedin.com/in/michaelchen"
+    },
+    {
+      "id": "3",
+      "name": "Emily Rodriguez",
+      "position": "Product Manager",
+      "company": "Digital Agency Co.",
+      "avatar": "/images/testimonials/emily.jpg",
+      "content": "John has a rare combination of technical excellence and product thinking. He doesn't just write code – he understands the business impact and consistently delivers solutions that exceed expectations.",
+      "rating": 5,
+      "linkedinUrl": "https://linkedin.com/in/emilyrodriguez"
+    },
+    {
+      "id": "4",
+      "name": "David Kim",
+      "position": "Senior Developer",
+      "company": "TechCorp Inc.",
+      "avatar": "/images/testimonials/david.jpg",
+      "content": "As a junior developer, having John as a mentor was invaluable. He took the time to explain complex concepts and helped me grow tremendously. His code reviews are thorough and educational.",
+      "rating": 5,
+      "linkedinUrl": "https://linkedin.com/in/davidkim"
+    }
+  ]
+}

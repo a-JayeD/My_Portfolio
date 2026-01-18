@@ -1,0 +1,80 @@
+{
+  "education": [
+    {
+      "id": "1",
+      "institution": "Stanford University",
+      "institutionLogo": "/images/education/stanford.png",
+      "degree": "Master of Science",
+      "field": "Computer Science",
+      "startDate": "2017-09",
+      "endDate": "2019-06",
+      "current": false,
+      "gpa": "3.9/4.0",
+      "achievements": [
+        "Graduate Research Assistant in Distributed Systems Lab",
+        "Published 2 papers in top-tier conferences",
+        "Teaching Assistant for Advanced Algorithms course"
+      ],
+      "courses": [
+        "Distributed Systems",
+        "Machine Learning",
+        "Advanced Algorithms",
+        "Database Systems"
+      ]
+    },
+    {
+      "id": "2",
+      "institution": "MIT",
+      "institutionLogo": "/images/education/mit.png",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science and Engineering",
+      "startDate": "2013-09",
+      "endDate": "2017-06",
+      "current": false,
+      "gpa": "3.8/4.0",
+      "achievements": [
+        "Dean's List all semesters",
+        "President of Computer Science Club",
+        "Won 3rd place in ACM Programming Contest"
+      ],
+      "courses": [
+        "Data Structures",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "name": "AWS Solutions Architect Professional",
+      "issuer": "Amazon Web Services",
+      "issuerLogo": "/images/certs/aws.png",
+      "issueDate": "2023-06",
+      "expiryDate": "2026-06",
+      "credentialId": "ABC123XYZ",
+      "credentialUrl": "https://aws.amazon.com/verification/ABC123XYZ"
+    },
+    {
+      "id": "2",
+      "name": "Google Cloud Professional Developer",
+      "issuer": "Google Cloud",
+      "issuerLogo": "/images/certs/gcp.png",
+      "issueDate": "2023-03",
+      "expiryDate": "2025-03",
+      "credentialId": "GCP-DEV-456",
+      "credentialUrl": "https://google.com/verify/GCP-DEV-456"
+    },
+    {
+      "id": "3",
+      "name": "Kubernetes Administrator (CKA)",
+      "issuer": "CNCF",
+      "issuerLogo": "/images/certs/cncf.png",
+      "issueDate": "2022-11",
+      "expiryDate": "2025-11",
+      "credentialId": "CKA-789",
+      "credentialUrl": "https://cncf.io/verify/CKA-789"
+    }
+  ]
+}

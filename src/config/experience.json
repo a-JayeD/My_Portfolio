@@ -1,0 +1,87 @@
+{
+  "experiences": [
+    {
+      "id": "1",
+      "company": "TechCorp Inc.",
+      "companyLogo": "/images/companies/techcorp.png",
+      "companyUrl": "https://techcorp.example.com",
+      "position": "Senior Software Engineer",
+      "type": "full-time",
+      "location": "San Francisco, CA",
+      "locationType": "hybrid",
+      "startDate": "2022-06",
+      "endDate": null,
+      "current": true,
+      "description": "Leading development of cloud-native applications and microservices architecture. Mentoring junior developers and driving technical decisions for the product team.",
+      "achievements": [
+        "Led migration of monolithic application to microservices, improving scalability by 300%",
+        "Reduced deployment time from 2 hours to 15 minutes through CI/CD optimization",
+        "Mentored 5 junior developers, with 3 receiving promotions within 18 months",
+        "Architected real-time data pipeline processing 10M+ events daily",
+        "Implemented caching strategy that reduced database load by 60%"
+      ],
+      "technologies": ["React", "Node.js", "TypeScript", "AWS", "Kubernetes", "PostgreSQL", "Redis"]
+    },
+    {
+      "id": "2",
+      "company": "StartupXYZ",
+      "companyLogo": "/images/companies/startupxyz.png",
+      "companyUrl": "https://startupxyz.example.com",
+      "position": "Full-Stack Developer",
+      "type": "full-time",
+      "location": "New York, NY",
+      "locationType": "remote",
+      "startDate": "2020-03",
+      "endDate": "2022-05",
+      "current": false,
+      "description": "Built and maintained multiple customer-facing applications from scratch. Worked closely with product and design teams in an agile environment.",
+      "achievements": [
+        "Built MVP that secured $2M seed funding",
+        "Developed real-time collaboration features serving 10K+ daily active users",
+        "Improved application performance by 40% through code optimization",
+        "Implemented A/B testing framework that increased conversion by 25%"
+      ],
+      "technologies": ["Vue.js", "Python", "Django", "PostgreSQL", "Docker", "GCP"]
+    },
+    {
+      "id": "3",
+      "company": "Digital Agency Co.",
+      "companyLogo": "/images/companies/agency.png",
+      "companyUrl": "https://agency.example.com",
+      "position": "Frontend Developer",
+      "type": "full-time",
+      "location": "Austin, TX",
+      "locationType": "onsite",
+      "startDate": "2019-01",
+      "endDate": "2020-02",
+      "current": false,
+      "description": "Developed responsive web applications for various clients across industries including e-commerce, healthcare, and finance.",
+      "achievements": [
+        "Delivered 15+ client projects on time and within budget",
+        "Established component library reducing development time by 30%",
+        "Achieved 95% client satisfaction score"
+      ],
+      "technologies": ["React", "JavaScript", "SCSS", "Node.js", "MongoDB"]
+    },
+    {
+      "id": "4",
+      "company": "Tech University",
+      "companyLogo": "/images/companies/university.png",
+      "companyUrl": "https://university.example.com",
+      "position": "Software Engineering Intern",
+      "type": "internship",
+      "location": "Boston, MA",
+      "locationType": "onsite",
+      "startDate": "2018-06",
+      "endDate": "2018-12",
+      "current": false,
+      "description": "Contributed to research projects and developed internal tools for the computer science department.",
+      "achievements": [
+        "Developed automated grading system used by 500+ students",
+        "Published research paper on distributed systems",
+        "Received full-time offer upon graduation"
+      ],
+      "technologies": ["Python", "Java", "MySQL", "Docker"]
+    }
+  ]
+}

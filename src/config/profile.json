@@ -1,0 +1,16 @@
+{
+  "name": "Ali Arman Jayed",
+  "title": "Senior Software Engineer",
+  "tagline": "Building digital experiences that matter",
+  "bio": "I'm a passionate Software Engineer with 5+ years of experience building scalable web applications and distributed systems. I specialize in React, Node.js, TypeScript, and cloud-native technologies. Currently focused on building products that solve real-world problems and create meaningful impact.\n\nWhen I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or exploring the latest in AI and machine learning. I believe in continuous learning and love tackling complex challenges.",
+  "shortBio": "Senior Software Engineer passionate about building scalable applications and exceptional user experiences. 5+ years of experience with modern web technologies.",
+  "location": "Dhaka, Bangladesh",
+  "email": "aliarmanjayed1245@gmail.com",
+  "phone": "+880 01903585731",
+  "avatar": "/images/profile.jpg",
+  "resumeUrl": "/resume.pdf",
+  "availability": "available",
+  "yearsOfExperience": 5,
+  "projectsCompleted": 50,
+  "companiesWorked": 4
+}

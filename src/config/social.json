@@ -1,0 +1,68 @@
+{
+  "links": [
+    {
+      "id": "1",
+      "platform": "GitHub",
+      "url": "https://github.com/johndoe",
+      "icon": "Github",
+      "username": "@johndoe",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/johndoe",
+      "icon": "Linkedin",
+      "username": "johndoe",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "platform": "Twitter",
+      "url": "https://twitter.com/johndoe",
+      "icon": "Twitter",
+      "username": "@johndoe",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/johndoe",
+      "icon": "Code",
+      "username": "johndoe",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "platform": "Codeforces",
+      "url": "https://codeforces.com/profile/johndoe",
+      "icon": "Terminal",
+      "username": "johndoe",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "platform": "HackerRank",
+      "url": "https://hackerrank.com/johndoe",
+      "icon": "Code2",
+      "username": "johndoe",
+      "featured": false
+    },
+    {
+      "id": "7",
+      "platform": "Dev.to",
+      "url": "https://dev.to/johndoe",
+      "icon": "Newspaper",
+      "username": "@johndoe",
+      "featured": false
+    },
+    {
+      "id": "8",
+      "platform": "Email",
+      "url": "mailto:hello@johndoe.dev",
+      "icon": "Mail",
+      "username": "hello@johndoe.dev",
+      "featured": true
+    }
+  ]
+}

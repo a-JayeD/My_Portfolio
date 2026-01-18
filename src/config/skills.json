@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": "languages",
+      "name": "Programming Languages",
+      "icon": "Code2",
+      "skills": [
+        { "name": "TypeScript", "level": 95, "icon": "typescript", "color": "#3178C6" },
+        { "name": "JavaScript", "level": 95, "icon": "javascript", "color": "#F7DF1E" },
+        { "name": "Python", "level": 85, "icon": "python", "color": "#3776AB" },
+        { "name": "Java", "level": 75, "icon": "java", "color": "#ED8B00" },
+        { "name": "Go", "level": 70, "icon": "go", "color": "#00ADD8" },
+        { "name": "Rust", "level": 60, "icon": "rust", "color": "#000000" }
+      ]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend Development",
+      "icon": "Layout",
+      "skills": [
+        { "name": "React", "level": 95, "icon": "react", "color": "#61DAFB" },
+        { "name": "Next.js", "level": 90, "icon": "nextjs", "color": "#000000" },
+        { "name": "Vue.js", "level": 80, "icon": "vuejs", "color": "#4FC08D" },
+        { "name": "Tailwind CSS", "level": 95, "icon": "tailwindcss", "color": "#06B6D4" },
+        { "name": "Framer Motion", "level": 85, "icon": "framer", "color": "#0055FF" },
+        { "name": "Redux", "level": 85, "icon": "redux", "color": "#764ABC" }
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend Development",
+      "icon": "Server",
+      "skills": [
+        { "name": "Node.js", "level": 90, "icon": "nodejs", "color": "#339933" },
+        { "name": "Express.js", "level": 90, "icon": "express", "color": "#000000" },
+        { "name": "NestJS", "level": 80, "icon": "nestjs", "color": "#E0234E" },
+        { "name": "GraphQL", "level": 85, "icon": "graphql", "color": "#E10098" },
+        { "name": "REST APIs", "level": 95, "icon": "api", "color": "#009688" },
+        { "name": "FastAPI", "level": 75, "icon": "fastapi", "color": "#009688" }
+      ]
+    },
+    {
+      "id": "databases",
+      "name": "Databases",
+      "icon": "Database",
+      "skills": [
+        { "name": "PostgreSQL", "level": 90, "icon": "postgresql", "color": "#4169E1" },
+        { "name": "MongoDB", "level": 85, "icon": "mongodb", "color": "#47A248" },
+        { "name": "Redis", "level": 80, "icon": "redis", "color": "#DC382D" },
+        { "name": "MySQL", "level": 80, "icon": "mysql", "color": "#4479A1" },
+        { "name": "Elasticsearch", "level": 70, "icon": "elasticsearch", "color": "#005571" }
+      ]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps & Cloud",
+      "icon": "Cloud",
+      "skills": [
+        { "name": "AWS", "level": 85, "icon": "aws", "color": "#FF9900" },
+        { "name": "Docker", "level": 90, "icon": "docker", "color": "#2496ED" },
+        { "name": "Kubernetes", "level": 75, "icon": "kubernetes", "color": "#326CE5" },
+        { "name": "CI/CD", "level": 85, "icon": "github-actions", "color": "#2088FF" },
+        { "name": "Terraform", "level": 70, "icon": "terraform", "color": "#7B42BC" },
+        { "name": "Linux", "level": 85, "icon": "linux", "color": "#FCC624" }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Tools & Others",
+      "icon": "Wrench",
+      "skills": [
+        { "name": "Git", "level": 95, "icon": "git", "color": "#F05032" },
+        { "name": "VS Code", "level": 95, "icon": "vscode", "color": "#007ACC" },
+        { "name": "Figma", "level": 75, "icon": "figma", "color": "#F24E1E" },
+        { "name": "Jira", "level": 80, "icon": "jira", "color": "#0052CC" },
+        { "name": "Postman", "level": 90, "icon": "postman", "color": "#FF6C37" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Building Scalable React Applications: A Complete Guide",
+      "slug": "building-scalable-react-applications",
+      "excerpt": "Learn how to architect React applications that scale from prototype to production with millions of users.",
+      "content": "",
+      "coverImage": "/images/blog/react-scale.png",
+      "author": "John Doe",
+      "publishedAt": "2024-01-15",
+      "readingTime": 12,
+      "tags": ["React", "Architecture", "Performance", "TypeScript"],
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "The Art of System Design Interviews",
+      "slug": "system-design-interviews",
+      "excerpt": "A comprehensive guide to acing system design interviews at top tech companies.",
+      "content": "",
+      "coverImage": "/images/blog/system-design.png",
+      "author": "John Doe",
+      "publishedAt": "2024-01-08",
+      "readingTime": 15,
+      "tags": ["System Design", "Interviews", "Career"],
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Mastering TypeScript: Advanced Patterns",
+      "slug": "mastering-typescript-advanced-patterns",
+      "excerpt": "Deep dive into advanced TypeScript patterns that will level up your development skills.",
+      "content": "",
+      "coverImage": "/images/blog/typescript.png",
+      "author": "John Doe",
+      "publishedAt": "2023-12-20",
+      "readingTime": 10,
+      "tags": ["TypeScript", "JavaScript", "Best Practices"],
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "From Monolith to Microservices: A Journey",
+      "slug": "monolith-to-microservices",
+      "excerpt": "Real-world lessons learned from migrating a large monolithic application to microservices.",
+      "content": "",
+      "coverImage": "/images/blog/microservices.png",
+      "author": "John Doe",
+      "publishedAt": "2023-12-10",
+      "readingTime": 18,
+      "tags": ["Microservices", "Architecture", "DevOps"],
+      "featured": false
+    }
+  ]
+}
